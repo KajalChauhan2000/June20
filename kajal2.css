@@ -6,6 +6,9 @@
     font-size: 30px;
     text-decoration: none;
     margin: 10px;
-    color: black;
-    
+    color: black;  
+}
+.image{
+   position: absolute;
+   border-radius: 50%;
 }
