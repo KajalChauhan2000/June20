@@ -4,11 +4,13 @@
 }
 .decorate a{
     font-size: 30px;
-    text-decoration: none;
+    text-decoration: underline;
     margin: 10px;
     color: black;  
 }
-.image{
+.image img{
    position: absolute;
-   border-radius: 50%;
+   
+   
+   
 }
