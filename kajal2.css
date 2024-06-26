@@ -1,0 +1,11 @@
+
+.bg{
+    background-color: whitesmoke;
+}
+.decorate a{
+    font-size: 30px;
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    
+}
